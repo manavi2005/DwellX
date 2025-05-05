@@ -1,0 +1,71 @@
+.favorites-page {
+    padding: 40px 20px;
+    background-color: #f9f9f9;
+    min-height: 100vh;
+  }
+  
+  .favorites-title {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 2.5rem;
+    color: #333;
+  }
+  
+  .cards-container-favorites {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-left: 3rem;
+    justify-content: flex-start;
+  }
+  
+  .result-card {
+    background-color: #ffffff;
+    border-radius: 12px;
+    padding: 20px;
+    width: 300px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+  }
+  
+  .result-card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .neighborhood-name {
+    font-size: 1.5rem;
+    color: #4f6792;
+    margin-bottom: 10px;
+  }
+  
+  .score {
+    font-size: 1.1rem;
+    margin-bottom: 10px;
+  }
+  
+  .description {
+    font-size: 1rem;
+    color: #555;
+    margin-bottom: 15px;
+  }
+  
+  .remove-favorite-btn {
+    background-color: #ff6b81;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: 600;
+    margin-top: 10px;
+    transition: background-color 0.3s;
+  }
+  
+  .remove-favorite-btn:hover {
+    background-color: #ff4757;
+  }
+  
+  .remove-favorite-btn:disabled {
+    background-color: #aaa;
+    cursor: not-allowed;
+  }
