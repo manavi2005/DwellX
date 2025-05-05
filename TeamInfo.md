@@ -5,16 +5,14 @@
 
 |   Info      |        Description     |
 | ----------- | ---------------------- |
-| TeamID      |        Team-074        |
-| TeamName    |       JSONderulo       |
-| Captain     |      Khushi Patel      |
-| Captain     | khuship4@illinois.edu  |
-| Member1     |   Annapoorna Narayan   |
-| Member1     |    an77@illinois.edu   |
-| Member2     |      Advita Gelli      |
-| Member2     |  agelli2@illinois.edu  |
-| Member3     |     Manavi Chaudhry    |
-| Member3     |  manavic2@illinois.edu |
+| Member1     |      Khushi Patel      |
+| Member1     | khuship4@illinois.edu  |
+| Member2     |   Annapoorna Narayan   |
+| Member2     |    an77@illinois.edu   |
+| Member3     |      Advita Gelli      |
+| Member3     |  agelli2@illinois.edu  |
+| Member4     |     Manavi Chaudhry    |
+| Member4     |  manavic2@illinois.edu |
 
 ## Project Information
 
